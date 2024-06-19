@@ -5,9 +5,15 @@
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
+<<<<<<< HEAD
+        "php": "^8.2",
+        "laravel/framework": "^11.9",
+        "laravel/reverb": "@beta",
+=======
         "php": "8.2.4",
         "laravel-notification-channels/twilio": "^3.4",
         "laravel/framework": "^11.10.0",
+>>>>>>> 932ee0300060a2516b83a67288978d559c5d2423
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
         "beyondcode/laravel-websockets": "^1.14"
